@@ -31,7 +31,7 @@ $(document).ready(function () {
         slidesOffsetAfter: 50,
         navigation: {
           nextEl: ".button-next",
-        }
+        },
       },
     },
   });
